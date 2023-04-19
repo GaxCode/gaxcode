@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/919324400350818327/1098040648453607496/Yeni_Proje.png" alt="Header Image" draggable="false" />
 </p>
-t
+
 <!-- Introduction -->
 <h1 align="center">Hey there, I'm Gax 👋</h1>
 <p align="center">
